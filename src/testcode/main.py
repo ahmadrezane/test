@@ -5,4 +5,8 @@ def fib(n):
        b, a = a + b, b
     return a 
 
-print(fib(9))
+def se (a, b):
+    s = a + b * 8
+    print(s)
+
+    
